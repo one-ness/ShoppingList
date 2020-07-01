@@ -1,0 +1,32 @@
+/* delete list item */
+.delete {
+    background-color: white;
+    border: none;
+    color:red;
+}
+
+.row {
+    display: block;
+}
+li {
+    padding: 0px;
+    list-style: none;
+    display: inline-block;
+}
+
+button{
+    display: inline-block;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.shoplist {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+}
